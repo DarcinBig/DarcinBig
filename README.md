@@ -1,16 +1,14 @@
-## Hi there 👋
+**Experienced Front-End Developer | React & TypeScript Specialist | Passionate about AI & Web3**  
+*Crafting high-performance UIs and innovative user experiences*
 
-<!--
-**DarcinBig/DarcinBig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate front-end developer with **several years of experience** building modern web applications. I help businesses achieve ambitious digital projects through technical expertise and innovation-driven solutions.  
 
-Here are some ideas to get you started:
+**Specialized** in dynamic interfaces with React, TypeScript and Tailwind CSS, with full-stack proficiency (Node.js, Express, MongoDB). Currently seeking **challenging projects** (open source or commercial) to:  
+- Advance **AI integration** in web applications  
+- Explore **Web3** and decentralized architectures  
+- Optimize performance and UX at scale  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core stack:**  
+`JavaScript/TypeScript` `React` `Next.js` `Node.js` `Tailwind CSS` `CSS3` `Express` `MongoDB`
+
+Open to innovative collaborations and technically demanding challenges.
